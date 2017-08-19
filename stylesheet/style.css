@@ -1,0 +1,68 @@
+#banner{
+    display: block;
+    margin: 0 auto;
+}
+
+#banner2{
+    display: block;
+    margin: 0 auto;
+}
+#prevBtn{
+    float: left;
+}
+
+#nextBtn{
+    float: right;
+}
+
+.btnType{
+    width: 200px;
+}
+
+.btn2{
+    display: block;
+    margin-top:50px;
+    margin-left: 45%;
+    width: 200px;
+    text-transform: uppercase;
+}
+
+.imageDisp{
+    height: 250px;
+    width: 450px;
+    display: inline;
+}
+
+.container1, span{
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: large;
+    color: navy;
+    text-transform: capitalize;
+}
+
+
+h1{
+    text-decoration: underline;
+    color: navy;
+    text-transform: uppercase;
+}
+
+p{
+    font-weight: bold;
+}
+
+.lbl{
+    margin-top: 5%;
+    border-radius: 5px;
+    border: 2px solid black;
+    display: block;
+    font-size: large;
+
+.labelStyle{
+    font-size: large;
+}
+form{
+    margin-top: 50px;
+}
+

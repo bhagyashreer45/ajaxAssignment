@@ -1,0 +1,14 @@
+
+
+.container1{
+    border: 1px dashed navy;
+    margin: 5% 25%;
+    height: 250px;
+    width: 600px;
+}
+
+}
+
+#guitarImage{
+    float: left;
+}
